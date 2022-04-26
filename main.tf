@@ -1,6 +1,6 @@
 ################################
 # Create Storage Bucket - Main #
-################################
+###############################
 
 # Create a GCS Bucket
 resource "google_storage_bucket" "tf-bucket" {
